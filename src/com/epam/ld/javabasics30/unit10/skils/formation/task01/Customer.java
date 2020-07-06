@@ -109,3 +109,4 @@ public class Customer {
         return Objects.hash(id, surname, name, fathersName, address, cardNumber, bankAccountNumber);
     }
 }
+// задания юнита 10 зачтены
